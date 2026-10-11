@@ -18,7 +18,7 @@ Uygulamanın o anki verilerini ve durumunu yönetme işlemidir.
 
 ## Layered Architecture (Katmanlı Mimari)
 Uygulamayı görevlerine göre farklı katmanlara ayırır.
-    - Controller: Gelen istekleri karşılar ve yanıtları yönetir.
-    - Service: İş kurallarını ve uygulama mantığını yürütür.
-    - Repository: Veritabanından veri okuma ve yazma işlemlerini yönetir.
+- Controller: Gelen istekleri karşılar ve yanıtları yönetir.
+- Service: İş kurallarını ve uygulama mantığını yürütür.
+- Repository: Veritabanından veri okuma ve yazma işlemlerini yönetir.
 Bu yapı, kodun daha düzenli, test edilebilir ve bakımı kolay olmasını sağlar.
