@@ -11,7 +11,10 @@ Linux'ta terminal, komutlarla işletim sistemini yönetmeyi sağlar.
 
 
 ## Paket Yönetimi (apt / pacman / dnf)
-Yazılımları yüklemek, güncellemek ve kaldırmak için kullanılır. apt Debian/Ubuntu, pacman Arch Linux, dnf Fedora sistemlerinde yaygın.
+Yazılımları yüklemek, güncellemek ve kaldırmak için kullanılır. 
+- apt Debian/Ubuntu
+- pacman Arch Linux
+- dnf Fedora sistemlerinde yaygın.
 
 
 ## File Permissions (Dosya İzinleri)
